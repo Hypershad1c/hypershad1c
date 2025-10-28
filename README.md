@@ -1,33 +1,42 @@
 # 👋 Hey there, I'm HyperShad1c
 
-💻 Passionate Developer | 🎯 Focused on Java, Cybersecurity & AI | 🧩 Always Learning
+🌐 Network Engineer | 🛡️ Cybersecurity Enthusiast | 🤖 AI Explorer
 
 ---
 
 ## 🚀 About Me
 - 🎓 Student at EMSI  
-- 💡 Interested in software development, cybersecurity, and ethical hacking  
-- 🔭 Currently working on:
-  - 🏫 **Library Management System (Java + Swing + CSV)**
-  - 🎮 **Valorant OCR HUD** for tournament use  
-- ⚙️ Tools I use: IntelliJ IDEA, VSCode, Eclipse, Kali Linux, Parrot OS
+- 💡 Passionate about **networking**, **cyber defense**, and **AI-driven automation**  
+- 🧠 Exploring **ethical hacking**, **threat analysis**, and **network optimization**  
+- ⚙️ Tools I use: Kali Linux, Parrot OS, Wireshark, Nmap, Burp Suite, VSCode, IntelliJ IDEA
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Java, Python, JavaScript, HTML, CSS  
-**Frameworks & Tools:** Swing, React, Node.js, Git, Tesseract OCR  
+**Languages:** Java, Python, JavaScript, TypeScript, HTML, CSS  
+**Frameworks & Tools:** Next.js, Astro, Node.js, Git, Tesseract OCR  
+**Cyber Tools:** Bettercap, Metasploit, Aircrack-ng, Hashcat  
 **Databases:** MySQL, SQLite, CSV-based storage  
 **Operating Systems:** Windows, Linux (Kali, Parrot)
 
 ---
 
 ## 📚 Featured Projects
-### 📘 [Library Management System](https://github.com/hypershad1c/library-management)
-> A complete Java Swing app with user management, CSV storage, and statistical reports.
 
-### 🎯 [Valorant OCR HUD](https://github.com/hypershad1c/valorant-ocr-hud)
-> OCR-based heads-up display for live Valorant tournaments, showing player stats and info.
+### ✨ [Professional Card (Astro)](https://github.com/hypershad1c/professional-card-astro)
+> A sleek personal portfolio built with Astro — lightweight, responsive, and modern.
+
+### 💾 [File Upload System](https://github.com/hypershad1c/file-upload-system)
+> A simple and secure file upload platform built in JavaScript for web applications.
+
+### ⚙️ [Ping Optimizer Morocco](https://github.com/hypershad1c/Ping-Optimizer-Morocco)
+> Network optimization tool designed to reduce latency and improve connection stability.
+
+### 🧠 [Magic Portfolio for Next.js](https://github.com/hypershad1c/magic-portfolio-for-next-js)
+> A modern portfolio powered by Next.js, designed for developers and freelancers.
+
+### 🎮 [Valorant OCR HUD](https://github.com/hypershad1c/valorant-ocr-hud)
+> OCR-based HUD for Valorant tournaments — detects scoreboard, agents, and player data in real time.
 
 ---
 
@@ -44,9 +53,10 @@
 ---
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-bourazzouq/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spox618@gmail.com)
 
 ---
 
-> “The more you practice, the fewer bugs you fear.” — *HyperShad1c*
+> “Networks are the veins of the digital world — secure them, and you secure everything.”  
+> — *HyperShad1c*
